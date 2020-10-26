@@ -1,0 +1,55 @@
+img {
+    width: 128px;
+}
+
+h4 {
+    color: grey;
+}
+
+figure {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px lightgray;
+    width: 320px;
+}
+
+.image {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img {
+    height: 128px;
+}
+.info {
+    text-align: start;
+    margin-left: 24px;
+    font-size: smaller;
+    margin-right: 44px;
+}
+
+.name {
+    margin-top: 24px;
+}
+.title {
+    margin-bottom: 3px;
+}
+.year {
+    margin-top: 3px;
+}
+
+.rate {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid lightgray;
+}
+
+.rate-text {
+    padding-left: 10px;
+}
+
+span {
+    color: #eee;
+    padding-right: 10px;
+}
